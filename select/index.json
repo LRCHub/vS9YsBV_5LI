@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "誇り高きアイドル",
+  "base_artist": "mona（CV：夏川椎菜）",
+  "createdAt": "2026-02-09T18:21:16.992168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "HoneyWorks feat. Kotoha",
+      "has_synced": false,
+      "path": "select/01_誇り高きアイドル_HoneyWorks_feat._Kotoha.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誇り高きアイドル - HokoritakakiIdol (feat. Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_誇り高きアイドル_-_HokoritakakiIdol_(feat._Kotoha)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "HoneyWorks feat. Kotoha",
+      "has_synced": true,
+      "path": "select/03_誇り高きアイドル_HoneyWorks_feat._Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_誇り高きアイドル_mona(CV.夏川椎菜)_feat.HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "誇り高きアイドル (feat. Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_誇り高きアイドル_(feat._Kotoha)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "mona（CV：夏川椎菜）",
+      "has_synced": true,
+      "path": "select/06_誇り高きアイドル_mona(CV_夏川椎菜).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_誇り高きアイドル_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "hololive × HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_誇り高きアイドル_hololive_×_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "誇り高きアイドル／HoneyWorks feat.Kotoha",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_誇り高きアイドル_HoneyWorks_feat.Kotoha_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "誇り高きアイドル( feat.HoneyWorks)",
+      "artist": "mona (夏川椎菜)",
+      "has_synced": true,
+      "path": "select/10_誇り高きアイドル(_feat.HoneyWorks)_mona_(夏川椎菜).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "誇り高きアイドル",
+      "artist": "HoneyWorks feat.Kotoha",
+      "has_synced": false,
+      "path": "select/11_誇り高きアイドル_HoneyWorks_feat.Kotoha.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誇り高きアイドル",
+      "artist": "mona(CV:夏川椎菜) feat. HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_誇り高きアイドル_mona(CV_夏川椎菜)_feat._HoneyWorks.txt"
+    }
+  ]
+}
